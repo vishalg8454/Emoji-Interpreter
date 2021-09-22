@@ -9,7 +9,11 @@ const emojiDictionary = {
   "😁": "grin",
   "🤯‍": "mind blown",
   "🥳": "party mode",
-  "😶": "sorry, no words"
+  "😶": "sorry, no words",
+  "🤤": "mouth watering",
+  "😵‍": "dead",
+  "😵‍💫": "hypnotized",
+  "🤬": "don't mess with me"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
